@@ -1,11 +1,10 @@
 
 <img src='https://github.com/rcousins89/rcousins89/blob/main/about-colour.gif' height=500px width=800px>
 
+         
 
+<img src='https://github.com/rcousins89/rcousins89/blob/main/java.png' height='40'>  <img src='https://github.com/rcousins89/rcousins89/blob/main/spring-boot.png' height='40'>    <img src='https://github.com/rcousins89/rcousins89/blob/main/react.png' height='40'>
 
-### Skills: JAVA / SPRINGBOOT / REACT / JS / HTML / CSS
-
-<img src='https://github.com/rcousins89/rcousins89/blob/main/java.png'>
 
 
 #### Connect with me on Linkedin
