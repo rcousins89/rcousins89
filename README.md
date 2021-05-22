@@ -1,5 +1,5 @@
 
-<img src='https://github.com/rcousins89/rcousins89/blob/main/Hnet-image.gif' height=700px width=1000px>
+<img src='https://github.com/rcousins89/rcousins89/blob/main/Hnet-image.gif' height=500px width=800px>
 
 
 
