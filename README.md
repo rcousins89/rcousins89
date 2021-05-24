@@ -19,11 +19,15 @@
 </div>
             
 
-
-## Connect with me on Linkedin      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-<a href="https://www.linkedin.com/in/ruairi-cousins/">
          
-
+         
+<h3 align="center">Connect with me on Linkedin</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruairi-cousins/">
+    <code> 
+      <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+    </code>
+  </a>
 
 
 
