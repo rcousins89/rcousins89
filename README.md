@@ -2,8 +2,18 @@
 <img src='https://github.com/rcousins89/rcousins89/blob/main/skills-colour.gif' height=500px width=800px>
 
          
-
-<img src='https://github.com/rcousins89/rcousins89/blob/main/java.png' height='40'>  <img src='https://github.com/rcousins89/rcousins89/blob/main/spring-boot.png' height='40'>    <img src='https://github.com/rcousins89/rcousins89/blob/main/react.png' height='40'>
+<div align="center">
+            <code>
+<img src='https://github.com/rcousins89/rcousins89/blob/main/java.png' margin-right='15px' height='40'>
+    </code>
+         <code>
+<img src='https://github.com/rcousins89/rcousins89/blob/main/spring-boot.png' height='40' margin-right='15px'> 
+</code>
+         <code>
+<img src='https://github.com/rcousins89/rcousins89/blob/main/react.png' height='40'>
+      </code>      
+</div>
+            
 
 
 
